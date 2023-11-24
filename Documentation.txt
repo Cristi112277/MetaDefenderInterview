@@ -1,0 +1,5 @@
+To install needed library run command in folder:
+pip install -r requirements.txt
+
+Script usage:
+py script.py <file path> <api key>
